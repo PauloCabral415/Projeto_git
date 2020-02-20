@@ -2,4 +2,6 @@ teste git
 
 exemplo2
 
-outro teste3
+outro teste3]
+
+linha adicionada no ramo alter
